@@ -1,10 +1,10 @@
-# Project 6 - *Name of App Here*
+# Project 6 - *BeReal*
 
-Submitted by: **Your Name Here**
+Submitted by: **BeReal**
 
 **Name of your app** is an app that introduces ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **9** hours spent in total
 
 ## Required Features
 
@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!--ezgif-->
-GIF created with ...  
+GIF created with ezgif  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
